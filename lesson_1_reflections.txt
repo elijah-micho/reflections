@@ -1,0 +1,29 @@
+1) How did viewing a diff between two versions help you spot the bug?
+A1) It helps because it shows you the changes between the two versions so you can see which change in the code is causing the bug.
+
+2) How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A2) I  can go back to previous versions of the files I create to see where I went wrong
+or techniques/code that I want to use or to avoid mistakes I made in the past.
+
+3) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A3) The pros of manually committing are that you add a comment so you add a logical reason for the change so you can
+know exactly what changed and why. Forces you to remember to commit. Cons are that you must do it manually so you can
+forget also maybe have a confusing commit history if you follow improper logic.
+
+With automatic saving, you don't have to worry about forgetting to save but at the same time your commits might be 
+space weirdly, at bad times, or just don't make any sense.
+
+4) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A4) With Git you're often working with a repository of interconnected files, with google docs, that is 
+rarely the case.
+
+5) How can you use the commands git log and git diff to view the history of files?
+A5) git log shows you all the different commits you did and versions of the files. git diff shows you di
+fference between two files.
+
+6) How might using version control make you more confident to make changes that could break something?
+A6) I could always go back to an older commit that wasn't broken after making a change.
+
+7) Now that you have your workspace set up, what do you want to try using Git for?
+A7) I want to create my repository for any future projects that I  work on and use the most
+industry standard way of version control.
