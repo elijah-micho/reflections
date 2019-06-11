@@ -15,3 +15,7 @@ line for certain commits. Use depending on context.
 
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 A4) So that you are up to date with the latest from the time you fetched the remote.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A5) Share through dropbox, google drive, email or other sharing services. Most of these services 
+provide automatic saving but everything else would be harder.
