@@ -12,3 +12,6 @@ instead of another?
 A3) Fork: cloning a repository but only to and from GitHub server. Clone: create a 
 copy of a git repository whether local or on GitHub. Branches: create different
 line for certain commits. Use depending on context.
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+A4) So that you are up to date with the latest from the time you fetched the remote.
