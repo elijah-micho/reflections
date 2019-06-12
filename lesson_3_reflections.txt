@@ -19,3 +19,10 @@ A4) So that you are up to date with the latest from the time you fetched the rem
 5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A5) Share through dropbox, google drive, email or other sharing services. Most of these services 
 provide automatic saving but everything else would be harder.
+
+6) When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+A6) When you're working on a different feature or something not ready to be put into
+the main master branch. Working in a seperate branch allows you freedom to try new things
+without impacting the project. Working in master makes it easier for you to have your
+changes be implemented in the main project.
